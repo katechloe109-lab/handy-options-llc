@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #000;
+    color: #fff;
+}
+
+header {
+    background: #ff8c00;
+    padding: 30px;
+    text-align: center;
+    color: #000;
+}
+
+.hero {
+    text-align: center;
+    padding: 60px 20px;
+    background: #222;
+}
+
+.cta {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 25px;
+    background: #ffd000;
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.services {
+    padding: 40px 20px;
+    background: #111;
+}
+
+.services h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #ffd000;
+}
+
+.service-card {
+    background: #222;
+    padding: 20px;
+    margin: 15px auto;
+    max-width: 600px;
+    border-left: 5px solid #ff8c00;
+}
+
+.about, .contact {
+    padding: 40px 20px;
+    background: #000;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #ff8c00;
+    color: #000;
+}
