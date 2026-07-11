@@ -65,3 +65,19 @@ footer {
     background: #ff8c00;
     color: #000;
 }
+.navbar {
+    background: #ff8c00;
+    padding: 10px;
+    text-align: center;
+}
+
+.navbar a {
+    color: #000;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    color: #ffd000;
+}
